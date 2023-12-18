@@ -46,8 +46,8 @@ const about = () => {
                         <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
                             <h2 className="mb-4 text-lg font-bold uppercase text-decoration-slate-950 dark:text-light/75">About me</h2>
                             <p className='font-medium'>I successfully switched from a degree in civil engineering to a career as a talented software developer by working hard and being a committed professional. I&apos;m dedicated to producing top-notch solutions that satisfy corporate goals and go above and beyond expectations. I have expertise inC#,.NET,JS, PL/SQL, and other technologies.</p><br />
-                            <p className="font-medium">
-                                I'm currently employed as a software developer, using my
+                            <p className='font-medium'>
+                                I am currently employed as a software developer, using my
                                 excellent technical abilities to create and manage crucial
                                 software programs. I have a lot of expertise with programming
                                 languages like C#,.NET, JS,PL/SQL, Excel VBA, and others to
@@ -56,12 +56,12 @@ const about = () => {
                                 surroundings and technology.
                             </p>
                             <br />
-                            <p className="font-medium">
-                                I'm passionate about providing creative ideas that support
+                            <p className='font-medium'>
+                                I am passionate about providing creative ideas that support
                                 organizations in achieving their objectives. I have a strong
                                 analytical mentality and outstanding problem-solving
                                 skills.To stay abreast of new technology and business trends,
-                                I'm also really motivated to keep studying and developing my
+                                I am also really motivated to keep studying and developing my
                                 abilities.
                             </p>
                         </div>
