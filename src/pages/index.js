@@ -41,7 +41,7 @@ export default function Home() {
                 You can click the buttons below for Resume and Contact.
                 </p>
                <div className='flex items-center self-start mt-2 lg:self-center'>
-                   <Link href="/Software Developer Eren ERDOĞAN.pdf" target={"_blank"}
+                   <Link href="/SoftwareDeveloperErenERDOĞAN.pdf" target={"_blank"}
                   className='flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg font-semibold
                   hover:bg-light hover:text-dark border border-solid border-transparent hover:border-dark
                   dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light
