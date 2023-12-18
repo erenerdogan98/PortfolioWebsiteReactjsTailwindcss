@@ -46,10 +46,24 @@ const about = () => {
                         <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
                             <h2 className="mb-4 text-lg font-bold uppercase text-decoration-slate-950 dark:text-light/75">About me</h2>
                             <p className='font-medium'>I successfully switched from a degree in civil engineering to a career as a talented software developer by working hard and being a committed professional. I&apos;m dedicated to producing top-notch solutions that satisfy corporate goals and go above and beyond expectations. I have expertise inC#,.NET,JS, PL/SQL, and other technologies.</p><br />
-                            <p className='font-medium'>I'm currently employed as a software developer, using my excellent technical abilities to create and manage crucial software programs. I have a lot of expertise with programming languages like C#,.NET, JS,PL/SQL, Excel VBA, and others to create solid solutions. My expertise and abilities enable me to work cross-functionally effectively and swiftly adapt to new surroundings and technology.
-                            </p><br />
-                            <p className="font-medium">I'm passionate about providing creative ideas that support organizations in achieving their objectives. I have a strong analytical mentality and outstanding problem-solving skills.To stay abreast of new technology and business trends, I'm also really motivated to keep studying and developing my abilities.</p>
-
+                            <p className="font-medium">
+                                I'm currently employed as a software developer, using my
+                                excellent technical abilities to create and manage crucial
+                                software programs. I have a lot of expertise with programming
+                                languages like C#,.NET, JS,PL/SQL, Excel VBA, and others to
+                                create solid solutions. My expertise and abilities enable me to
+                                work cross-functionally effectively and swiftly adapt to new
+                                surroundings and technology.
+                            </p>
+                            <br />
+                            <p className="font-medium">
+                                I'm passionate about providing creative ideas that support
+                                organizations in achieving their objectives. I have a strong
+                                analytical mentality and outstanding problem-solving
+                                skills.To stay abreast of new technology and business trends,
+                                I'm also really motivated to keep studying and developing my
+                                abilities.
+                            </p>
                         </div>
                         <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-red-950
                 bg-light p-8 dark:bg-dark dark:border-light xl:col-span-4 md:order-1 md:col-span-8'>
